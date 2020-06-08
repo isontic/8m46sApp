@@ -1,0 +1,35 @@
+{
+    "label": {
+        "startWelcomeMessage": "Le 25 mai, 2020, Derek chauvin a appuyé son genou sur le cou de George Floyd pendant 8 minutes et 46 secondes, entraînant la mort de M. Floyd. J’invite les visiteurs à s’asseoir et réfléchir pendant cette même durée de temps. Ça vous semblera une éternité. Une transcription de cette incident est disponible.",
+        "wikipediaQuote": "Le 25 mai, 2020, George Perry Floyd, un homme noir, a été tué dans la communauté Powderhorn de Minneapolis, Minnesota. Pendant que Floyd avait les mains menottées, Derek Chauvin, un policier blanc de Minneapolis, a gardé son genou appuyé sur le côté droit du cou de Floyd pendant 8 minutes et 46 secondes; d’après la plainte criminelle contre Chauvin, Floyd était sans réaction pendant 2 minutes et 53 secondes. Les policiers Tou Thao, J. Alexander Kueng, et Thomas K. Lane ont participé à l’arrestation de Floyd, Kueng sur le dos de Floyd, Lane sur ses jambes, et Thao s’assurant qu’aucun passant ne puisse intervenir.",
+        "dateBorn": "21 décembre, 1960",
+        "dateDeath": "25 mai, 2020"
+    },
+    "button": {
+        "start": "commence",
+        "viewMoreWikipedia": "voir plus de détails sur Wikipedia"
+    },
+    "transcript": {
+        "transcript-0": "\"s’il-vous plaît, s’il-vous plaît, je ne peux plus respirer\"",
+        "transcript-1": "\"s’il-vous plaît\"",
+        "transcript-2": "\"je ne peux plus respirer\"",
+        "transcript-3": "\"je vais mourir\"",
+        "transcript-4": "\"tu l’as plaqué au sol,\nlaisse le au moins respirer mon gars\" - passant",
+        "transcript-5": "\"je ne peux plus respirer, je ne peux plus respirer\"",
+        "transcript-6": "\"relaxe\" - policier 2",
+        "transcript-7": "(toujours agenouillé)\n\"rentre dans la voiture!\"\n\"D’accord!\"",
+        "transcript-8": "(toujours agenouillé)\n\"lève-toi, rentre dans la voiture!\"\n\"je ne peux pas bouger.\"",
+        "transcript-9": "\"Il parle,\nil est ok\" - policier 2 à passant",
+        "transcript-10": "(toujours agenouillé)\n\"lève-toi, rentre dans la voiture!\"\n\"Maman! Maman!\"",
+        "transcript-11": "* une ambulance est appelée. *",
+        "transcript-12": "\"Tout me fait mal. Un peu d’eau ou quelque chose, s’il-vous plaît.\"",
+        "transcript-13": "\"je ne peux pas respirer, policier\" \"Tais-toi!\" \"Ils vont me tuer.\"",
+        "transcript-14": "\"il ne réagit plus maintenant\" - passant",
+        "transcript-15": "\"enlève ton genou de son cou, bro!\" - passant",
+        "transcript-16": "\"pourquoi es-tu encore sur lui?\" - passant",
+        "transcript-17": "* après 5 minutes et 50 secondes, George Floyd ne réagit plus. *",
+        "transcript-18": "\"putain il ne bouge plus\" - passant",
+        "transcript-19": "après 8 minutes et 43 secondes, derek chauvin a enlevé son genou du cou de George Floyd. George Floyd a été prononcé mort un peu plus tard.",
+        "transcript-20": "Justice pour George Floyd."
+    }
+}
