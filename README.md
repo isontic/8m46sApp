@@ -1,6 +1,6 @@
 # 8m46sApp
 
 Translations:
-- English (en.json)
-- German (de.json)
-- French (fr.json)
+- English (en.json) by Elias Deuss
+- German (de.json) by Gustav Deuss
+- French (fr.json) by Emma Reddy
