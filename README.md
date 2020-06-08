@@ -1,4 +1,4 @@
-# 8m46sApp
+# 8m46s App
 
 Translations:
 - English (en.json) by Elias Deuss
