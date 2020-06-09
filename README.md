@@ -7,3 +7,4 @@ Translations:
 - Hebrew (he.json) by Aviv Samet
 - Spanish (es.json) by Briana Berastain
 - Japanese (ja.json) by Kento Logan
+- Portuguese (ja.json) by Eloísa Costa
