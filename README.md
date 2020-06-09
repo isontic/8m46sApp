@@ -6,3 +6,4 @@ Translations:
 - French (fr.json) by Emma Reddy
 - Hebrew (he.json) by Aviv Samet
 - Spanish (es.json) by Briana Berastain
+- Japanese (ja.json) by Kento Logan
