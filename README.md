@@ -9,3 +9,4 @@ Translations:
 - Japanese (ja.json) by Kento Logan
 - Portuguese (ja.json) by Eloísa Costa
 - Russian (ru.json) by Anonymous
+- Korean (ko.json) by Wona Lee
