@@ -2,12 +2,15 @@
     "label": {
         "startWelcomeMessage": "On May 25th 2020, Derek Chauvin held his knee on the neck of George Floyd for 8 minutes and 46 seconds, resulting in Mr. Floyd's death. I invite visitors to sit quietly and reflect for this same length of time. It feels like an eternity. A partial transcript of the incident is provided throughout.",
         "wikipediaQuote": "On May 25, 2020, George Perry Floyd, an African-American man, was killed in the Powderhorn community of Minneapolis, Minnesota. While Floyd was handcuffed and lying face down on a city street during an arrest, Derek Chauvin, a white American Minneapolis police officer, kept his knee on the right side of Floyd's neck for 8 minutes and 46 seconds; according to the criminal complaint against Chauvin, 2 minutes and 53 seconds of that time occurred after Floyd became unresponsive. Officers Tou Thao, J. Alexander Kueng, and Thomas K. Lane participated in Floyd's arrest, with Kueng holding Floyd's back, Lane holding his legs, and Thao looking on and preventing intervention by an onlooker as he stood nearby.",
-        "dateBorn": "December 21, 1960",
-        "dateDeath": "May 25, 2020"
+        "dateBorn": "October 14, 1973",
+        "dateDeath": "May 25, 2020",
+        "appSources": "Sources",
+        "appTranslations": "Translations"
     },
     "button": {
         "start": "Start",
-        "viewMoreWikipedia": "View more on Wikipedia"
+        "viewMoreWikipedia": "View more on Wikipedia",
+        "contribute": "Contribute"
     },
     "transcript": {
         "transcript-0": "\"Please, please, please! I can't breathe!\"",
